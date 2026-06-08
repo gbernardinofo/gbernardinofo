@@ -1,12 +1,7 @@
-# Hi 👋, I'm Herbert Souza
+# Hi 👋, I'm Guilherme Bernardino
 
-🚀 **Senior Software Engineer | JavaScript & .NET Specialist**  
+🚀 **Computer Science Student**  
 🇧🇷 Brazil
-
-I build **scalable products**, **SaaS platforms**, and **high-performance web systems**.  
-I’m deeply focused on **architecture, performance, clean code, and business-driven solutions**.
-
-I also create content and share knowledge on **software development, SaaS, and tech entrepreneurship**.
 
 ---
 
