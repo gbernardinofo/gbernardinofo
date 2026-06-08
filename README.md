@@ -1,7 +1,12 @@
-# Hi 👋, I'm Guilherme Bernardino
+# Hi 👋, I'm Herbert Souza
 
-🚀 Computer Science Student  
+🚀 **Senior Software Engineer | JavaScript & .NET Specialist**  
 🇧🇷 Brazil
+
+I build **scalable products**, **SaaS platforms**, and **high-performance web systems**.  
+I’m deeply focused on **architecture, performance, clean code, and business-driven solutions**.
+
+I also create content and share knowledge on **software development, SaaS, and tech entrepreneurship**.
 
 ---
 
@@ -12,7 +17,7 @@
     <img src="https://img.shields.io/badge/GitHub-GBERNARDINOfo-181717?style=for-the-badge&logo=github" />
   </a>
   <a href="https://instagram.com/gui.bernardino_">
-    <img src="https://img.shields.io/badge/Instagram-@GUI.BERNARDINO__-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-@gbernardinofo-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href = "mailto:bernardino.ufrpe@gmail.com">
     <img src= "https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" />
