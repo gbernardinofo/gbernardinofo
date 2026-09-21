@@ -11,12 +11,9 @@
   <a href="https://github.com/gbernardinofo">
     <img src="https://img.shields.io/badge/GitHub-GBERNARDINOfo-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://instagram.com/gui.bernardino_">
-    <img src="https://img.shields.io/badge/Instagram-@gbernardinofo-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href = "mailto:bernardino.ufrpe@gmail.com">
-    <img src= "https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" />
-  </a>
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-bernardino-dev/)
+  [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/GBERNARDINOFO/)
+  [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:bernardino.ufrpe@gmail.com)
 </p>
 
 
